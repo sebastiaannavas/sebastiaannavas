@@ -1,16 +1,26 @@
-### Hi there 👋
+### Sebastián Navas :wink: :computer:
+
+:rotating_light: **UPDATE SOON** :rotating_light:
+
+<!-- Full Stack Developer / Remote **VE** -->
+
+#### Skills:
+- [x] HTML / CSS
+- [x] JavaScript
+- [x] Java / Android
+
+#### Learning:
+- [x] React.js
+- [x] TypeScript
+- [X] Python
+
+> Contact me for projects, collaboration or info
+```diff
+sebastiannavas06@gmail.com
+```
 
 <!--
-**sebastiaannavas/sebastiaannavas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 Working on:
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
