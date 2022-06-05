@@ -14,7 +14,7 @@
 - [x] TypeScript
 - [X] Python
 
-> Contact me for projects, collaboration or info
+> Contact me for projects, collabs or info
 ```diff
 sebastiannavas06@gmail.com
 ```
@@ -22,5 +22,4 @@ sebastiannavas06@gmail.com
 <!--
 - 🔭 Working on:
 - 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: ...
 -->
