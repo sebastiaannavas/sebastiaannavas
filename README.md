@@ -18,6 +18,3 @@ I am a Systems Engineer with experience in Full stack development.
 :seedling: Continuously learning mobile native and cross platform technologies.
 
 :handshake: Looking to collaborate in challenging projects to keep growing professionally.
-
-[![Gmail](https://img.shields.io/badge/Gmail-sebastiannavas06@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:sebastiannavas06@gmail.com)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-sebastianjnavasb-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/sebastianjnavasb)
