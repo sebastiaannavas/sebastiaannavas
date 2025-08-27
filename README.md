@@ -15,6 +15,6 @@ I am a Systems Engineer with experience in Full stack development.
 
 :telescope: Currently working as `SAP ABAP Developer`
 
-:seedling: Continuously learning mobile native and cross platform technologies.
+:seedling: Learning mobile native and cross platform technologies.
 
-:handshake: Looking to collaborate in challenging projects to keep growing professionally.
+:handshake: Looking to collaborate on challenging projects to keep growing professionally.
