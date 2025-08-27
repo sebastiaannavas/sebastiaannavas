@@ -17,4 +17,4 @@ I am a Systems Engineer with experience in Full stack development.
 
 :seedling: Learning mobile native and cross platform technologies.
 
-:handshake: Looking to collaborate on challenging projects to keep growing professionally.
+:handshake: Looking to collaborate on challenging projects.
