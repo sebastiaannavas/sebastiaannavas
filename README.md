@@ -1,6 +1,6 @@
 # :wave: Hi there
 
-I am a Systems Engineer with experience in Full stack development.
+I am a SAP ABAP Developer with experience in Full stack development.
 
 [![ABAP](https://img.shields.io/badge/Code-ABAP-0FAAFF?logo=sap&logoColor=white)](https://help.sap.com/docs/btp/sap-business-technology-platform/development-in-abap-environment)
 [![Java](https://img.shields.io/badge/Code-Java-000000?logo=openjdk&logoColor=white)](https://www.java.com/)
@@ -13,8 +13,6 @@ I am a Systems Engineer with experience in Full stack development.
 [![Netlify](https://img.shields.io/badge/Compute-Netlify%20functions-00C7B7?logo=netlify&logoColor=white)](https://www.netlify.com/platform/core/functions/)
 [![Docker](https://img.shields.io/badge/Tools-Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
 
-:telescope: Currently working as `SAP ABAP Developer`
-
-:seedling: Learning mobile native and cross platform technologies.
+:seedling: Learning mobile and cross platform technologies.
 
 :handshake: Looking to collaborate on challenging projects.
